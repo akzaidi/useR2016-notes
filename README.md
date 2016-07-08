@@ -5,6 +5,8 @@ These are my notes from the wonderful [useR 2016](user2016.org) conference at St
 
 You're probably better off looking at the notes compiled by the wonderful [Jasmine Dumas](https://github.com/jasdumas/user2016-notes)!
 
+The video lectures [can be found here on Channel9](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)
+
 The full [abstract book can be found here](http://user2016.org/files/abs-book.pdf)
 
 Slides are being noted and compiled on the [RWeekly newsletter](https://github.com/rweekly/rweekly.org/blob/gh-pages/_posts/2016-7-3-user2016.md)
@@ -161,8 +163,8 @@ I only attended the second half of this tutorial. The most interesting developme
 The tandem of `dapply` for Spark 2.0 and the announcements of the Spark API and packages by the good folks at RStudio has me very giddy and excited. These are momentous advancements for the use of R with Spark.
 
 + [Syllabus](http://user2016.org/tutorials/11.html)
-+ [Part I]()
-+ [Part II]()
++ [Part I](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4445213449192764/386285766047251/3865211757615045/latest.html)
++ [Part II](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4445213449192764/386285766047279/3865211757615045/latest.html)
 
 ##### Joe Cheng: Effective Shiny Programming
 
